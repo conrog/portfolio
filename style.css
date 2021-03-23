@@ -20,6 +20,27 @@ p {
   background-color: #172121;
 }
 
+#navbar {
+  display: flex;
+  position: fixed;
+  background-color: #dd614a;
+  color: #fefcfd;
+  width: 100vw;
+  justify-content: flex-end;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.nav-item {
+  margin-right: 1rem;
+  text-decoration: none;
+  font-size: 1.25rem;
+  color: #172121;
+}
+
+.nav-item:hover {
+  color: #fefcfd;
+}
+
 .open-sans-title {
   font-family: "Open Sans", sans-serif;
   font-size: 3rem;
