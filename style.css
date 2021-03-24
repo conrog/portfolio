@@ -67,11 +67,13 @@ p {
   max-width: 300px;
   text-align: center;
   /* animation: transform 5s; */
+  color: #172121;
+  text-decoration: none;
 }
 
 .projects-item:hover {
-  transform: scale(1.15, 1.15);
   color: #fefcfd;
+  transform: scale(1.15, 1.15);
 }
 
 .open-sans-title {
