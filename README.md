@@ -5,8 +5,9 @@ This project was used to familarise myself with git commands and using github wh
 # Technology Used
 
 The project was built using:
-_ HTML
-_ CSS
+
+- HTML
+- CSS
 
 # Additional Links
 
